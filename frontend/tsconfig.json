@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src",//orientar o type script q todos os arquivos q eventualmente forem inseeridos na pasta src
     "target": "es5",
     "lib": [
       "dom",
